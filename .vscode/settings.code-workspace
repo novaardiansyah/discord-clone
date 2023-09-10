@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../../discord-clone"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#0E3EDA"
+    },
+    "files.eol": "\r\n",
+    "window.zoomLevel": 0.4,
+    "editor.fontSize": 11,
+    "editor.lineHeight": 25,
+    "editor.fontFamily": "Hack Regular, Source Code Pro, Consolas, 'Courier New', monospace",
+    "intelephense.diagnostics.undefinedProperties": false,
+    "editor.tabSize": 2
+  }
+}
