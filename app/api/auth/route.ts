@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server'
-import { connectDB } from '../mongodb/route'
+import { connectDB } from '../mongodb/db'
 import { User } from '@/schema/Users'
 
 export async function POST(request: any) {
